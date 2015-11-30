@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoFileName",
+		"Clickable URLs",
+		"Git",
+		"GitGutter",
+		"gruvbox-sublime",
+		"LaTeXTools",
+		"Material Theme",
+		"Package Control",
+		"PowerCursors",
+		"PowerShell",
+		"Powershell Help Generator",
+		"Rust",
+		"RustAutoComplete",
+		"SublimeREPL",
+		"Vintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/austinwagner/gruvbox-sublime"
+	]
+}
